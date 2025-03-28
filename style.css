@@ -429,6 +429,22 @@ button {
   background: url(img/16.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
+.pj-19 {
+  background: url(img/21.png) no-repeat 50% 50%;
+  background-size: cover;
+}
+.pj-20 {
+  background: url(img/22.png) no-repeat 50% 50%;
+  background-size: cover;
+}
+.pj-21 {
+  background: url(img/23.png) no-repeat 50% 50%;
+  background-size: cover;
+}
+.pj-22 {
+  background: url(img/24.png) no-repeat 50% 50%;
+  background-size: cover;
+}
 /*--------------- newsletter section starts  --------------- */
 
 .newsletter {
